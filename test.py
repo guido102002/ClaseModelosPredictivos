@@ -5,6 +5,11 @@ def HolaMundo():
     
 HolaMundo()
 
+def HolaMundo():
+    print ("hola mundo")
+    
+HolaMundo()
+
 def HolaMensaje():
     print ("borre rama")
     
