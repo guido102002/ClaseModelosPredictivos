@@ -1,2 +1,6 @@
-print ("hola mundo")
-print ("mi primer repositorio")
+#test code
+
+def HolaMundo():
+    print ("hola mundo")
+    
+HolaMundo()
